@@ -1,2 +1,3 @@
 Initial commit for file2.
+Second line added
 
